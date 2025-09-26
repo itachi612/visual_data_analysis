@@ -38,8 +38,8 @@ Summary: Today we will help you with data visualization in Matplotlib, Seaborn, 
 
 ### Foreword
 
-Visualization is good for two reasons. The First, it is very useful when you need to com-
-municate your results to somebody: your employer, colleagues, customers, etc. Second, it
+Visualization is good for two reasons. The First, it is very useful when you need to 
+communicate your results to somebody: your employer, colleagues, customers, etc. Second, it
 is useful building for a better understanding of the data. Here is an example that shows
 why it is important.
 
@@ -88,8 +88,8 @@ on the left.
 ### Specific instructions for the day
 
 * Use Jupyter Notebook to work with your code
-* No imports are allowed, except those explicitly mentioned in the section “Autho-
-rized functions” of the title block of each exercise
+* No imports are allowed, except those explicitly mentioned in the section 
+“Authorized functions” of the title block of each exercise
 * You can use any built-in function, as long as it is not prohibited within the exercise
 * Save and load all the required data in the subfolder data/
 
